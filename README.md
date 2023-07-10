@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/nhtmrys<br>📫 How to reach me nihatemreyesil@gmail.com<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web Development, Next.js and E-commerce<br>📄 Know about my experiences https://www.linkedin.com/in/nihatemreyesil<br>⚡ Fun fact "Like API v2"
+👨‍💻 All of my projects are available at https://nihatemreyesil.com<br>📫 How to reach me nihatemreyesil@gmail.com<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web Development, Next.js and E-commerce<br>📄 Know about my experiences https://www.linkedin.com/in/nihatemreyesil<br>⚡ Fun fact "Like API v2"
 
 
 ## 🌐 Socials:
